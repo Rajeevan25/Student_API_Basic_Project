@@ -6,7 +6,6 @@ A basic RESTful API built using **Golang** to manage student data. This project 
 student-api/
 │
 ├── main.go               # Entry point of the application
-├── tmp/
 ├── models/               # Data structures (e.g., Student struct)
 ├── routes/               # API routes setup
 ├── Database/              # In-memory or file-based data storage logic
